@@ -1,0 +1,47 @@
+p
+{
+	background-color: blue;
+	color: white;
+	font-family: sans-serif;
+	font-size: 48pt;
+}
+
+p.ubermensch
+{
+	background-color: blue;
+	color: white;
+	font-family: sans-serif;
+	font-size: 13pt;
+}
+
+body
+{
+	background-color: black;
+	color: white;
+	
+	background-image: url(images/lightningLord.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+body.ubermensch
+{
+	background-color: black;
+	color: white;
+	
+	background-image: url(images/lightningLord.jpg);
+	background-size: 100%;
+	background-repeat: repeat;
+}
+
+a
+{
+	background-color: blue;
+	color: white;
+}
+
+a:hover
+{
+	background-color: white;
+	color: blue;
+}
