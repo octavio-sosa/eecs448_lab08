@@ -41,10 +41,12 @@ a
 {
 	background-color: blue;
 	color: white;
+	font-size: 13pt;
 }
 
 a:hover
 {
 	background-color: white;
 	color: blue;
+	font-size: 15pt;
 }
